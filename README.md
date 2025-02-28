@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Lucas Borges de Oliveira, tenho 24 anos e sou natural de Brasilia. Concluí o ensino médio no Claretiano Stella Maris. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio. Sou apaixonada por tecnologia, ainda não compatilho meu conhecimento, mas pretendo em breve. Onde irei ensinar a criar projetos web, projetos em Python e etc.
+Me chamo Lucas Borges de Oliveira, tenho 24 anos e sou natural de Brasilia. Concluí o ensino médio no Claretiano Stella Maris. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio. Sou apaixonado por tecnologia, ainda não compatilho meu conhecimento, mas pretendo em breve. Onde irei ensinar a criar projetos web, projetos em Python e etc.
 
 
 </p>
