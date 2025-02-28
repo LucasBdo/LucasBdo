@@ -36,15 +36,6 @@ Me chamo Lucas Borges de Oliveira, tenho 24 anos e sou natural de Brasilia. Conc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
