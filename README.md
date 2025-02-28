@@ -4,20 +4,7 @@
 
 Me chamo Lucas Borges de Oliveira, tenho 24 anos e sou natural de Brasilia. Concluí o ensino médio no Claretiano Stella Maris. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio. Sou apaixonada por tecnologia, ainda não compatilho meu conhecimento, mas pretendo em breve. Onde irei ensinar a criar projetos web, projetos em Python e etc.
 
-    </a> 
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LucasBdo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
 </p>
 
 ---
